@@ -26,5 +26,3 @@ Antes disso, acumulei mais de 5 anos de experiência em suporte técnico, atuand
 Também me formei em Jogos Digitais pelo SENAC e pelo IFRS, o que reforçou meu interesse pela criação e lógica por trás da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Estácio, com o objetivo claro de me aprofundar na área de programação e conquistar novas oportunidades profissionais.
 
 Estou em busca de desafios onde eu possa crescer, contribuir com soluções inteligentes e evoluir junto com a equipe e a empresa. Acredito no poder do aprendizado contínuo e estou comprometido em me tornar um desenvolvedor cada vez mais completo.
-
-
