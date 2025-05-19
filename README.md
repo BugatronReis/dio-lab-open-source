@@ -1,4 +1,6 @@
-# Fernando Reis
+# Olá, eu sou Fernando Reis!
+
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/fernando01022013)
@@ -11,6 +13,7 @@ Aprender o básico sobre contribuição no GitHub.
 
 ## Ferramentas
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
